@@ -1,4 +1,9 @@
 # downloadAzureIPRanges
-Download all azure ip ranges into a simple txt file
+*Download all azure ip ranges into a simple txt file with Python.*
 
-Script for ipv4 only and ipv4+ipv6 and ipv6 only
+
+`downloadAzureRangeIpv4.py` 🐍 Python script to download all Azure Ipv4 ranges and output them to `AzureIPRanges.txt`
+
+`downloadAzureRangeIpv4Ipv6.py` 🐍 Python script to download all Azure Ipv4 + Ipv6 ranges and output them to `AzureIPRanges.txt`
+
+`downloadAzureRangeIpv6.py ` 🐍 Python script to download all Azure Ipv6 ranges and output them to `AzureIPRanges.txt`
